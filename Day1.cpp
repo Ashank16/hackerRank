@@ -25,7 +25,7 @@ int main() {
     // Print the sum of both integer variables on a new line.
     cout<<i + i1<<endl;
     // Print the sum of the double variables on a new line.
-    cout<<fixed<<setprecision(1)<<d + d1<<endl;
+    cout<<fixed<<setprecision(1)<<d + d1<<endl; //to set the answer upto 1 decimal place.
     // Concatenate and print the String variables on a new line
     // The 's' variable above should be printed first.
     cout<<s + s1<<endl;
